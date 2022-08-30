@@ -4,7 +4,7 @@ user.afk = + new Date
 user.afkReason = text
 m.reply(global.wait)
 m.reply(`
-@${m.sender.split`@`[0]} sekarang AFK ${text ? '\nDengan Alasan : ' + text : 'Tanpa Alasan'}
+@${m.sender.split`@`[0]} sekarang AFK ${text ? '\nDengan Alasan Aneh kek ya : ' + text : 'Tanpa Alasan'}
 `)
 }
 handler.help = ['afk [alasan]']
