@@ -3,23 +3,23 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6285706735450']  // isi jika perlu
-global.mods = ['6285706735450']   // isi jika perlu
-global.prems = ['6285706735450']  // isi jika perlu
+global.owner = ['6289606790112']  // isi jika perlu
+global.mods = ['6289606790112']   // isi jika perlu
+global.prems = ['6289606790112']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'verdihatoru' // isi nama kalian bebas
-global.numberowner = '6285706735450' // isi nomor kalian dengan awalan seperti di contoh 
-global.instagram = 'https://instagram.com/' // isi Instagram kalian harus link
-global.github = 'https://github.com/verdihatorou' // gausah di isi juga gpp bro
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = ''
+global.nameowner = 'RezaOfc' // isi nama kalian bebas
+global.numberowner = '6289606790112' // isi nomor kalian dengan awalan seperti di contoh 
+global.instagram = 'https://instagram.com/itz.reza_official_' // isi Instagram kalian harus link
+global.github = 'https://github.com/RezaOfc' // gausah di isi juga gpp bro
+global.dana = '6289606790112' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6289606790112' // isi dengan nomor pulsa hp kalian
+global.gopay = '6289606790112'
 
 //Name Bot & Grouplink//
-global.namebot = 'Xziro'
+global.namebot = 'EzaBot-MD'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/itz.reza_official_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
@@ -27,10 +27,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Xziro'
+global.wm = '© EzaBot-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Xziro'
-global.wm3 = '© Xziro'
+global.wm2 = '⫹⫺ EzaBot-MD'
+global.wm3 = '© EzaBot-MD'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
